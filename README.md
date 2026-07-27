@@ -34,15 +34,6 @@ The merged dataset is distributed as a single Excel file \(SecureLink`.xlsx`\) c
 > 
 > 
 
-### File Organization
-
-- 25 collection groups per device
-
-- Strict file pairing: `n.csi` is matched exclusively with `n.csv`
-
-- Total raw files: 550 CSI \+ 550 sensor logs
-
----
 
 ## Data Collection
 
