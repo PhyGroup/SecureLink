@@ -18,9 +18,8 @@ Dynamic maneuvers \(ascend, descend, left, right, yaw rotation\) were applied to
 
 ---
 ## Hardware Setup
-## Hardware Setup
 ![UAV & Acquisition Hardware](hardware.png)
-*Figure 1: Overall experimental hardware platform. Top: 20 DJI Tello UAVs; Bottom left: flight field layout with Phantom 4 Pro carrier; Bottom middle: Phantom 4 Pro main carrier UAV; Bottom right: ESP32 onboard sensor acquisition board with accelerometer and barometer modules.*
+> *Figure 1: Overall experimental hardware platform. Top: 20 DJI Tello UAVs; Bottom left: flight field layout with Phantom 4 Pro carrier; Bottom middle: Phantom 4 Pro main carrier UAV; Bottom right: ESP32 onboard sensor acquisition board with accelerometer and barometer modules.*
 
 ## Dataset Structure
 
