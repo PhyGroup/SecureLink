@@ -282,4 +282,6 @@ Raw sensor logs include pitch, roll, yaw, vgx, vgy, vgz, templ, temph, tof, h, b
 
 If you use this dataset in your research, please cite the SecureLink project\.
 
-> （注：部分内容可能由 AI 生成）
+
+![Hardware Setup](hardware.png)
+
