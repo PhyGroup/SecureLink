@@ -73,10 +73,10 @@ CSI recordings were obtained via PicoScenes\. The full channel matrix, subcarrie
 
 |Column Name|Type|Description|
 |---|---|---|
-||string|Device identifier, two\-digit format \(00\~21\), used to distinguish different UAV platforms|
-||numeric|Host\-side system timestamp in nanoseconds, high\-precision time alignment reference|
-||datetime|Beijing time in human\-readable format, converted from SystemTime|
-||numeric|NIC hardware\-side timestamp in microseconds|
+|device_id |string|Device identifier, two\-digit format \(00\~21\), used to distinguish different UAV platforms|
+|CSI_SystemTime_ns|numeric|Host\-side system timestamp in nanoseconds, high\-precision time alignment reference|
+|CSI_BJ_Time |datetime|Beijing time in human\-readable format, converted from SystemTime|
+|CSI_Timestamp|numeric|NIC hardware\-side timestamp in microseconds|
 
 #### 1\.2 RxSBasic — Receive Basic Information \(21 columns\)
 
