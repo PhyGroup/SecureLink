@@ -17,6 +17,9 @@ Over more than twelve hours of flight experiments across multiple days, data was
 Dynamic maneuvers \(ascend, descend, left, right, yaw rotation\) were applied to the drones during flights\. Five additional static trials \(labels 21–25\) were conducted in the office setting with UAVs powered on but propellers deactivated\.
 
 ---
+## Hardware Setup
+![UAV & Acquisition Hardware](hardware.png)
+*Figure 1: Overall experimental hardware platform. Top: 20 DJI Tello UAVs; Bottom left: flight field layout with Phantom 4 Pro carrier; Bottom middle: Phantom 4 Pro main carrier UAV; Bottom right: ESP32 onboard sensor acquisition board with accelerometer and barometer modules.*
 
 ## Dataset Structure
 
@@ -283,5 +286,5 @@ Raw sensor logs include pitch, roll, yaw, vgx, vgy, vgz, templ, temph, tof, h, b
 If you use this dataset in your research, please cite the SecureLink project\.
 
 
-![Hardware Setup](hardware.png)
+
 
