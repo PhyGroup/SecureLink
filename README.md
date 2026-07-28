@@ -275,6 +275,15 @@ Raw sensor logs include pitch, roll, yaw, vgx, vgy, vgz, templ, temph, tof, h, b
 ## Citation
 
 If you use this dataset in your research, please cite the SecureLink project\.
+@ARTICLE{securing2026huang,
+  author={Huang, Yong and Li, Ruihao and Chen, Mingyang and Zhao, Feiyang and Zhang, Dalong and Tu, Wanqing},
+  journal={IEEE Internet of Things Journal}, 
+  title={Securing UAV Communications by Fusing Cross-Layer Fingerprints}, 
+  year={2026},
+  volume={13},
+  number={2},
+  pages={2462-2475},
+  doi={10.1109/JIOT.2025.3631020}}
 
 
 
